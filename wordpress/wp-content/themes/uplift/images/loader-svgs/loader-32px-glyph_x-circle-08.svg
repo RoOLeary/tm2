@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32"><g >
+<path opacity="0.4" fill="#444444" d="M16,32C7.17773,32,0,24.82227,0,16S7.17773,0,16,0s16,7.17773,16,16S24.82227,32,16,32z M16,4
+	C9.3833,4,4,9.3833,4,16s5.3833,12,12,12s12-5.3833,12-12S22.6167,4,16,4z"/>
+<path class="nc-circle-03-linear" data-color="color-2" fill="#444444" d="M32,16h-4c0-6.6167-5.3833-12-12-12V0C24.82227,0,32,7.17773,32,16z" transform="rotate(291.40284640448436 16 16)"/>
+</g><script>function stepCircleThreeLin(t){startxCircle8||(startxCircle8=t);var e=t-startxCircle8,n=Math.min(e/1.4,360);504&gt;e||(startxCircle8+=504),window.requestAnimationFrame(stepCircleThreeLin),pathxCircle8.setAttribute("transform","rotate("+n+" 16 16)")}!function(){var t=0;window.requestAnimationFrame||(window.requestAnimationFrame=function(e){var n=(new Date).getTime(),r=Math.max(0,16-(n-t)),i=window.setTimeout(function(){e(n+r)},r);return t=n+r,i})}();var pathxCircle8=document.getElementsByClassName("nc-circle-03-linear")[0],startxCircle8=null;window.requestAnimationFrame(stepCircleThreeLin);</script></svg>

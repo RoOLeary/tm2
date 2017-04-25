@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M28,14c0-4.4,3.6-8,8-8
+	s8,3.6,8,8s-3.6,8-8,8" stroke-linejoin="round" stroke-linecap="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M30,46H14c-3.3,0-6-2.7-6-6
+	V14h28v26C36,43.3,33.3,46,30,46z" stroke-linejoin="round"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="6,2 14,2 22,38 
+	" stroke-linejoin="round"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="8" y1="30" x2="36" y2="30" stroke-linejoin="round"/>
+</g></svg>

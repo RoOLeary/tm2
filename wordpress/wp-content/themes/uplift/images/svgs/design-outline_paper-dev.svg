@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M22,40v1c0,4.5-5,5-5,5
+	s23.7,0,24,0c2.8,0,5-2.2,5-5v-1H22z" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M12,8H2V7c0-2.8,2.2-5,5-5
+	h0c2.8,0,5,2.2,5,5V8z" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M7,2" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M40,40V7c0-2.8-2.2-5-5-5H7
+	c2.8,0,5,2.2,5,5v34c0,2.8,2.2,5,5,5h23" stroke-linejoin="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	22,20 18,24 22,28 " stroke-linejoin="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	30,20 34,24 30,28 " stroke-linejoin="round"/>
+</g></svg>

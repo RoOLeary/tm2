@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M8,14L8,14
+	c-2.2,0-4-1.8-4-4v0c0-2.2,1.8-4,4-4h0c2.2,0,4,1.8,4,4v0C12,12.2,10.2,14,8,14z" stroke-linejoin="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	14,32 14,42 6,42 6,34 2,28 2,20 14,20 " stroke-linejoin="round"/>
+<path data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M40,14
+	L40,14c2.2,0,4-1.8,4-4v0c0-2.2-1.8-4-4-4h0c-2.2,0-4,1.8-4,4v0C36,12.2,37.8,14,40,14z" stroke-linejoin="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	34,32 34,42 42,42 42,34 46,28 46,20 34,20 " stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M24,14L24,14
+	c-3.3,0-6-2.7-6-6v0c0-3.3,2.7-6,6-6h0c3.3,0,6,2.7,6,6v0C30,11.3,27.3,14,24,14z" stroke-linejoin="round"/>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="28,46 20,46 20,38 
+	14,32 14,20 34,20 34,32 28,38 " stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M38,14
+	c-0.7,0-1.4,0.1-2,0.3c0-0.1,0-0.2,0-0.3c0-6.6-5.4-12-12-12c-4.5,0-8.4,2.5-10.5,6.2C13,8.1,12.5,8,12,8C6.5,8,2,12.5,2,18
+	c0,4.9,3.6,9,8.3,9.8C11.6,33.6,16.8,38,23,38c5.6,0,10.4-3.6,12.2-8.5C36.1,29.8,37,30,38,30c4.4,0,8-3.6,8-8
+	C46,17.6,42.4,14,38,14z" stroke-linejoin="round"/>
+<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="6" cy="42" r="4" stroke-linejoin="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	20,14 26,14 20,24 28,24 " stroke-linejoin="round"/>
+</g></svg>

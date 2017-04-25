@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M38,16c0-5.5-4.5-10-10-10
+	s-10,4.5-10,10v26" stroke-linejoin="round" stroke-linecap="round"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="10" y1="42" x2="38" y2="42" stroke-linejoin="round"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="10" y1="26" x2="28" y2="26" stroke-linejoin="round"/>
+</g></svg>

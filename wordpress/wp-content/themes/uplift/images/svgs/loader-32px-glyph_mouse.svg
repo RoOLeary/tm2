@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32"><g >
+<path fill="#444444" d="M19,32h-6c-3.85938,0-7-3.14014-7-7V7c0-3.85986,3.14062-7,7-7h6c3.85938,0,7,3.14014,7,7v18
+	C26,28.85986,22.85938,32,19,32z M13,2c-2.75684,0-5,2.24316-5,5v18c0,2.75684,2.24316,5,5,5h6c2.75684,0,5-2.24316,5-5V7
+	c0-2.75684-2.24316-5-5-5H13z"/>
+<path class="nc-mouce-path" data-color="color-2" fill="#444444" d="M16,14L16,14c-1.1,0-2-0.9-2-2V8c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2v4C18,13.1,17.1,14,16,14z" transform="translate(0 0.565129588632022)"/>
+</g><script type="text/javascript">function barsMouseStep(t){startMouse||(startMouse=t);var e=t-startMouse,a=Math.min(e/85,10),n=a&gt;5?10-a:a;850&gt;e||(startMouse+=850),window.requestAnimationFrame(barsMouseStep),pathMouse.setAttribute("transform","translate(0 "+n+")")}!function(){var t=0;window.requestAnimationFrame||(window.requestAnimationFrame=function(e){var a=(new Date).getTime(),n=Math.max(0,16-(a-t)),r=window.setTimeout(function(){e(a+n)},n);return t=a+n,r})}();var pathMouse=document.getElementsByClassName("nc-mouce-path")[0],startMouse=null;window.requestAnimationFrame(barsMouseStep);</script></svg>

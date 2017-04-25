@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M7,2" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M40,8V7c0-2.8-2.2-5-5-5H7
+	c2.8,0,5,2.2,5,5v34c0,2.8,2.2,5,5,5h23" stroke-linejoin="round" stroke-linecap="round"/>
+<line data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="40" y1="40" x2="40" y2="15.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M32,24l-4-4
+	L40,8c1.1-1.1,2.9-1.1,4,0l0,0c1.1,1.1,1.1,2.9,0,4L32,24z" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M22,40v1c0,4.5-5,5-5,5
+	s23.7,0,24,0c2.8,0,5-2.2,5-5v-1H22z" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M12,8H2V7c0-2.8,2.2-5,5-5
+	h0c2.8,0,5,2.2,5,5V8z" stroke-linejoin="round"/>
+<path data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M21.4,24.9
+	c1.6-1.6,4.1-1.6,5.7,0s1.6,4.1,0,5.7C25.5,32.1,20,32,20,32S19.9,26.5,21.4,24.9z" stroke-linejoin="round"/>
+</g></svg>

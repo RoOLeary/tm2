@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M44,22c0-11-9-20-20-20
+	S4,11,4,22c0,7.4,4,13.8,10,17.3V46h20v-6.7C40,35.8,44,29.4,44,22z" stroke-linejoin="round"/>
+<circle data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="16" cy="24" r="6" stroke-linejoin="round"/>
+<circle data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" cx="32" cy="24" r="6" stroke-linejoin="round"/>
+<polygon data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	24,34 22,36 26,36 " stroke-linejoin="round"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="20" y1="46" x2="20" y2="42" stroke-linejoin="round"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="28" y1="46" x2="28" y2="42" stroke-linejoin="round"/>
+</g></svg>

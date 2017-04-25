@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32"><g >
+<path class="nc-circle-04-path" fill="#444444" d="M16,32c-3.29199,0-6.45459-0.99268-9.14551-2.87012c-0.90576-0.63184-1.12793-1.87891-0.49561-2.78467
+	c0.63184-0.90527,1.87891-1.12695,2.78467-0.49561C11.15967,27.25635,13.53076,28,16,28c6.6167,0,12-5.3833,12-12S22.6167,4,16,4
+	S4,9.3833,4,16c0,1.47852,0.26465,2.91992,0.78711,4.28516c0.39502,1.03174-0.12109,2.18799-1.15283,2.58252
+	c-1.03223,0.39697-2.18799-0.12158-2.58252-1.15283C0.354,19.8916,0,17.96875,0,16C0,7.17773,7.17773,0,16,0s16,7.17773,16,16
+	S24.82227,32,16,32z" transform="rotate(95.98199248313904 16 16)"/>
+</g><script>function circleFourStep(t){startCircle4||(startCircle4=t);var e=t-startCircle4,r=Math.min(e/2,360);720&gt;e||(startCircle4+=720),window.requestAnimationFrame(circleFourStep),pathCircle4.setAttribute("transform","rotate("+r+" 16 16)")}!function(){var t=0;window.requestAnimationFrame||(window.requestAnimationFrame=function(e){var r=(new Date).getTime(),n=Math.max(0,16-(r-t)),a=window.setTimeout(function(){e(r+n)},n);return t=r+n,a})}();var pathCircle4=document.getElementsByClassName("nc-circle-04-path")[0],startCircle4=null;window.requestAnimationFrame(circleFourStep);</script></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<line data-cap="butt" data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="16.68466" y1="2.5723" x2="4.31534" y2="23.18783" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	9.89366,4.27005 16.68466,2.5723 18.38241,9.3633 " stroke-linejoin="round"/>
+<polyline data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	2.61759,16.39684 4.31534,23.18783 11.10634,21.49008 " stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M30.55438,22.16302
+	c-0.63503-3.82723-1.88418-7.3959-3.3011-9.67357c-0.78552-1.26271-2.39166-1.84404-3.75803-1.25708
+	c-1.74796,0.75087-2.3451,2.83718-1.36958,4.3745c1.62695,2.56381,2.48823,8.43154,2.10451,13.18829
+	c-0.13899,1.723-2.28479,2.43868-3.46004,1.17107l-1.90258-2.0521c-1.32581-1.40662-3.54095-1.47211-4.94757-0.14624
+	s-1.47211,3.54095-0.14624,4.94757L24,46h18l3.269-12.42222c0.96394-3.66298-1.16057-7.42824-4.79435-8.49701L30.55438,22.16302z" stroke-linejoin="round"/>
+</g></svg>

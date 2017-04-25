@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M17.00146,22.41907
+	C14.06886,21.23266,12,18.35793,12,15c0-4.41828,3.58172-8,8-8s8,3.58172,8,8c0,3.3574-2.06819,6.23174-5.00005,7.4185" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-cap="butt" data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M17.0003,27.65221
+	C11.26675,26.29799,7,21.14727,7,15C7,7.8203,12.8203,2,20,2s13,5.8203,13,13c0,4.04866-1.85173,7.66511-4.75339,10.04932" stroke-linejoin="round" stroke-linecap="round"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="17" y1="28" x2="17" y2="34" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M34,46l3.25838-15.10653
+	c0.41068-2.15606-0.99269-4.24033-3.14489-4.67077L23,24v-9c0-1.65685-1.34314-3-3-3H20c-1.65685,0-3,1.34314-3,3v13h-4
+	c-1.10457,0-2,0.89543-2,2v8c0,2.87109,2.79086,5.11412,4,8H34z" stroke-linejoin="round"/>
+</g></svg>

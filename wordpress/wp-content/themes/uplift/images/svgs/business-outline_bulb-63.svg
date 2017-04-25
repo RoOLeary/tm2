@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="2" y1="24" x2="6" y2="24" stroke-linejoin="round"/>
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="8.4" y1="8.4" x2="11.3" y2="11.3" stroke-linejoin="round"/>
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="24" y1="2" x2="24" y2="6" stroke-linejoin="round"/>
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="39.6" y1="8.4" x2="36.7" y2="11.3" stroke-linejoin="round"/>
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="46" y1="24" x2="42" y2="24" stroke-linejoin="round"/>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M36,24c0-6.6-5.4-12-12-12
+	s-12,5.4-12,12c0,5.2,3.3,9.7,8,11.3V40h8v-4.7C32.7,33.7,36,29.2,36,24z" stroke-linejoin="round"/>
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="20" y1="46" x2="28" y2="46" stroke-linejoin="round"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32"><g >
+<g class="nc-bars-rotate-group" fill="#444444" transform="rotate(315 16 16)">
+<rect x="14" fill="#444444" width="4" height="7"/>
+<rect x="22.83883" y="3.66117" transform="matrix(0.70711 0.70711 -0.70711 0.70711 12.33883 -15.46625)" fill="#444444" width="4" height="7" style="opacity: 0.4;"/>
+<rect x="25" y="14" fill="#444444" width="7" height="4" style="opacity: 0.4;"/>
+<rect x="22.83883" y="21.33883" transform="matrix(-0.70711 0.70711 -0.70711 -0.70711 59.96625 24.83883)" fill="#444444" width="4" height="7" style="opacity: 0.4;"/>
+<rect x="14" y="25" fill="#444444" width="4" height="7" style="opacity: 0.4;"/>
+<rect x="5.16117" y="21.33883" transform="matrix(-0.70711 -0.70711 0.70711 -0.70711 -5.33883 47.46625)" fill="#444444" width="4" height="7" style="opacity: 0.4;"/>
+<rect x="0" y="14" fill="#444444" width="7" height="4" style="opacity: 0.6;"/>
+<rect x="5.16117" y="3.66117" transform="matrix(0.70711 -0.70711 0.70711 0.70711 -2.96625 7.16117)" fill="#444444" width="4" height="7" style="opacity: 0.8;"/>
+</g>
+</g><script>function barsRotateStep(t){startBarsRotate||(startBarsRotate=t);var a=t-startBarsRotate,e=parseInt(Math.min(a/100,8));if(8==e){(e=0)};var r=45*e;800&gt;a||(startBarsRotate+=800),window.requestAnimationFrame(barsRotateStep),BarsRotateGroup.setAttribute("transform","rotate("+r+" 16 16)")}!function(){var t=0;window.requestAnimationFrame||(window.requestAnimationFrame=function(a){var e=(new Date).getTime(),r=Math.max(0,16-(e-t)),n=window.setTimeout(function(){a(e+r)},r);return t=e+r,n})}();var BarsRotateGroup=document.getElementsByClassName("nc-bars-rotate-group")[0],startBarsRotate=null;window.requestAnimationFrame(barsRotateStep);</script></svg>

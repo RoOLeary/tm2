@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)"><path data-color="color-2" data-stroke="none" fill="#000000" d="M19.383,30.645c0,0.878-0.258,1.556-0.775,2.033
+	c-0.518,0.479-1.252,0.717-2.205,0.717h-0.596V36h-2.122v-7.853h2.718c0.992,0,1.736,0.217,2.234,0.649
+	C19.135,29.23,19.383,29.847,19.383,30.645z M15.807,31.666h0.387c0.318,0,0.571-0.09,0.76-0.27c0.188-0.179,0.281-0.426,0.281-0.74
+	c0-0.53-0.293-0.795-0.881-0.795h-0.547V31.666z" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-color="color-2" data-stroke="none" fill="#000000" d="M27.365,36h-2.133v-3.201h-2.465V36h-2.133v-7.853h2.133v2.911h2.465v-2.911h2.133
+	V36z" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-color="color-2" data-stroke="none" fill="#000000" d="M34.761,30.645c0,0.878-0.259,1.556-0.776,2.033
+	c-0.518,0.479-1.252,0.717-2.205,0.717h-0.596V36h-2.121v-7.853h2.717c0.992,0,1.737,0.217,2.234,0.649
+	C34.512,29.23,34.761,29.847,34.761,30.645z M31.184,31.666h0.387c0.318,0,0.572-0.09,0.76-0.27c0.188-0.179,0.282-0.426,0.282-0.74
+	c0-0.53-0.294-0.795-0.881-0.795h-0.548V31.666z" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="29,2 29,14 41,14 " stroke-linejoin="round" stroke-linecap="round"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="41,23 41,14 29,2 
+	7,2 7,23 " stroke-linejoin="round"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="7,41 7,46 41,46 
+	41,41 " stroke-linejoin="round"/>
+<line data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46" y1="23" x2="2" y2="23" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="7,18 2,23 2,41 46,41 46,23 
+	41,18 " stroke-linejoin="round" stroke-linecap="round"/></g></svg>

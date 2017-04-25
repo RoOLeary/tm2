@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)">
+<line data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="42" x2="36" y2="42" stroke-linejoin="round"/>
+<rect x="2" y="6" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" width="44" height="28" stroke-linejoin="round"/>
+<polygon data-color="color-2" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="
+	20,14 28,20 20,26 " stroke-linejoin="round"/>
+</g></svg>

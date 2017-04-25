@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g  transform="translate(0, 0)"><path data-color="color-2" data-stroke="none" fill="#000000" d="M21.695,36h-6.117v-1.311l3.4-4.828h-3.32v-1.714h5.951v1.306l-3.399,4.834h3.485
+	V36z" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-color="color-2" data-stroke="none" fill="#000000" d="M22.818,36v-7.853h2.133V36H22.818z" stroke-linejoin="round" stroke-linecap="round"/>
+<path data-color="color-2" data-stroke="none" fill="#000000" d="M32.347,30.645c0,0.878-0.259,1.556-0.776,2.033
+	c-0.518,0.479-1.252,0.717-2.205,0.717H28.77V36h-2.121v-7.853h2.717c0.992,0,1.737,0.217,2.234,0.649
+	C32.098,29.23,32.347,29.847,32.347,30.645z M28.77,31.666h0.387c0.318,0,0.572-0.09,0.76-0.27c0.188-0.179,0.282-0.426,0.282-0.74
+	c0-0.53-0.294-0.795-0.881-0.795H28.77V31.666z" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="29,2 29,14 41,14 " stroke-linejoin="round" stroke-linecap="round"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="41,23 41,14 29,2 
+	7,2 7,23 " stroke-linejoin="round"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="7,41 7,46 41,46 
+	41,41 " stroke-linejoin="round"/>
+<line data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="46" y1="23" x2="2" y2="23" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline data-cap="butt" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="7,18 2,23 2,41 46,41 46,23 
+	41,18 " stroke-linejoin="round" stroke-linecap="round"/></g></svg>
